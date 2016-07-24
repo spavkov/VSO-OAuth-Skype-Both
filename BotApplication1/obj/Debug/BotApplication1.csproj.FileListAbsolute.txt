@@ -1,0 +1,63 @@
+C:\Slobo\git\test\SkypeBots\t1\BotApplication1\BotApplication1\bin\Bot Application1.dll.config
+C:\Slobo\git\test\SkypeBots\t1\BotApplication1\BotApplication1\bin\Bot Application1.dll
+C:\Slobo\git\test\SkypeBots\t1\BotApplication1\BotApplication1\bin\Bot Application1.pdb
+C:\Slobo\git\test\SkypeBots\t1\BotApplication1\BotApplication1\bin\Autofac.dll
+C:\Slobo\git\test\SkypeBots\t1\BotApplication1\BotApplication1\bin\Chronic.dll
+C:\Slobo\git\test\SkypeBots\t1\BotApplication1\BotApplication1\bin\Microsoft.Bot.Builder.dll
+C:\Slobo\git\test\SkypeBots\t1\BotApplication1\BotApplication1\bin\Microsoft.Bot.Connector.dll
+C:\Slobo\git\test\SkypeBots\t1\BotApplication1\BotApplication1\bin\Microsoft.IdentityModel.Protocol.Extensions.dll
+C:\Slobo\git\test\SkypeBots\t1\BotApplication1\BotApplication1\bin\Microsoft.Rest.ClientRuntime.dll
+C:\Slobo\git\test\SkypeBots\t1\BotApplication1\BotApplication1\bin\Microsoft.WindowsAzure.Configuration.dll
+C:\Slobo\git\test\SkypeBots\t1\BotApplication1\BotApplication1\bin\Newtonsoft.Json.dll
+C:\Slobo\git\test\SkypeBots\t1\BotApplication1\BotApplication1\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Slobo\git\test\SkypeBots\t1\BotApplication1\BotApplication1\bin\System.Net.Http.Formatting.dll
+C:\Slobo\git\test\SkypeBots\t1\BotApplication1\BotApplication1\bin\System.Web.Http.dll
+C:\Slobo\git\test\SkypeBots\t1\BotApplication1\BotApplication1\bin\System.Web.Http.WebHost.dll
+C:\Slobo\git\test\SkypeBots\t1\BotApplication1\BotApplication1\bin\Autofac.xml
+C:\Slobo\git\test\SkypeBots\t1\BotApplication1\BotApplication1\bin\Microsoft.Bot.Builder.xml
+C:\Slobo\git\test\SkypeBots\t1\BotApplication1\BotApplication1\bin\Microsoft.Bot.Connector.xml
+C:\Slobo\git\test\SkypeBots\t1\BotApplication1\BotApplication1\bin\Microsoft.IdentityModel.Protocol.Extensions.pdb
+C:\Slobo\git\test\SkypeBots\t1\BotApplication1\BotApplication1\bin\Microsoft.IdentityModel.Protocol.Extensions.xml
+C:\Slobo\git\test\SkypeBots\t1\BotApplication1\BotApplication1\bin\Microsoft.Rest.ClientRuntime.xml
+C:\Slobo\git\test\SkypeBots\t1\BotApplication1\BotApplication1\bin\Microsoft.WindowsAzure.Configuration.xml
+C:\Slobo\git\test\SkypeBots\t1\BotApplication1\BotApplication1\bin\Newtonsoft.Json.xml
+C:\Slobo\git\test\SkypeBots\t1\BotApplication1\BotApplication1\bin\System.IdentityModel.Tokens.Jwt.pdb
+C:\Slobo\git\test\SkypeBots\t1\BotApplication1\BotApplication1\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Slobo\git\test\SkypeBots\t1\BotApplication1\BotApplication1\bin\System.Net.Http.Formatting.xml
+C:\Slobo\git\test\SkypeBots\t1\BotApplication1\BotApplication1\bin\System.Web.Http.xml
+C:\Slobo\git\test\SkypeBots\t1\BotApplication1\BotApplication1\bin\System.Web.Http.WebHost.xml
+C:\Slobo\git\test\SkypeBots\t1\BotApplication1\BotApplication1\bin\ar\Microsoft.Bot.Builder.resources.dll
+C:\Slobo\git\test\SkypeBots\t1\BotApplication1\BotApplication1\bin\en\Microsoft.Bot.Builder.resources.dll
+C:\Slobo\git\test\SkypeBots\t1\BotApplication1\BotApplication1\bin\es\Microsoft.Bot.Builder.resources.dll
+C:\Slobo\git\test\SkypeBots\t1\BotApplication1\BotApplication1\bin\fa\Microsoft.Bot.Builder.resources.dll
+C:\Slobo\git\test\SkypeBots\t1\BotApplication1\BotApplication1\bin\fr\Microsoft.Bot.Builder.resources.dll
+C:\Slobo\git\test\SkypeBots\t1\BotApplication1\BotApplication1\bin\ja\Microsoft.Bot.Builder.resources.dll
+C:\Slobo\git\test\SkypeBots\t1\BotApplication1\BotApplication1\bin\ru\Microsoft.Bot.Builder.resources.dll
+C:\Slobo\git\test\SkypeBots\t1\BotApplication1\BotApplication1\bin\zh-hans\Microsoft.Bot.Builder.resources.dll
+C:\Slobo\git\test\SkypeBots\t1\BotApplication1\BotApplication1\obj\Debug\Bot Application1.dll
+C:\Slobo\git\test\SkypeBots\t1\BotApplication1\BotApplication1\obj\Debug\Bot Application1.pdb
+c:\Slobo\git\test\SkypeBots\t1\BotApplication1\BotApplication1\obj\Debug\BotApplication1.csprojResolveAssemblyReference.cache
+c:\Slobo\git\test\SkypeBots\t1\BotApplication1\BotApplication1\bin\Microsoft.Practices.ServiceLocation.dll
+c:\Slobo\git\test\SkypeBots\t1\BotApplication1\BotApplication1\bin\Microsoft.Practices.Unity.Configuration.dll
+c:\Slobo\git\test\SkypeBots\t1\BotApplication1\BotApplication1\bin\Microsoft.Practices.Unity.dll
+c:\Slobo\git\test\SkypeBots\t1\BotApplication1\BotApplication1\bin\Microsoft.Practices.Unity.RegistrationByConvention.dll
+c:\Slobo\git\test\SkypeBots\t1\BotApplication1\BotApplication1\bin\Microsoft.Web.Infrastructure.dll
+c:\Slobo\git\test\SkypeBots\t1\BotApplication1\BotApplication1\bin\System.Web.Helpers.dll
+c:\Slobo\git\test\SkypeBots\t1\BotApplication1\BotApplication1\bin\System.Web.Mvc.dll
+c:\Slobo\git\test\SkypeBots\t1\BotApplication1\BotApplication1\bin\System.Web.Razor.dll
+c:\Slobo\git\test\SkypeBots\t1\BotApplication1\BotApplication1\bin\System.Web.WebPages.Deployment.dll
+c:\Slobo\git\test\SkypeBots\t1\BotApplication1\BotApplication1\bin\System.Web.WebPages.dll
+c:\Slobo\git\test\SkypeBots\t1\BotApplication1\BotApplication1\bin\System.Web.WebPages.Razor.dll
+c:\Slobo\git\test\SkypeBots\t1\BotApplication1\BotApplication1\bin\WebActivatorEx.dll
+c:\Slobo\git\test\SkypeBots\t1\BotApplication1\BotApplication1\bin\Microsoft.Practices.ServiceLocation.pdb
+c:\Slobo\git\test\SkypeBots\t1\BotApplication1\BotApplication1\bin\Microsoft.Practices.ServiceLocation.xml
+c:\Slobo\git\test\SkypeBots\t1\BotApplication1\BotApplication1\bin\Microsoft.Practices.Unity.xml
+c:\Slobo\git\test\SkypeBots\t1\BotApplication1\BotApplication1\bin\Microsoft.Practices.Unity.Configuration.xml
+c:\Slobo\git\test\SkypeBots\t1\BotApplication1\BotApplication1\bin\Microsoft.Practices.Unity.RegistrationByConvention.xml
+c:\Slobo\git\test\SkypeBots\t1\BotApplication1\BotApplication1\bin\System.Web.Helpers.xml
+c:\Slobo\git\test\SkypeBots\t1\BotApplication1\BotApplication1\bin\System.Web.Mvc.xml
+c:\Slobo\git\test\SkypeBots\t1\BotApplication1\BotApplication1\bin\System.Web.Razor.xml
+c:\Slobo\git\test\SkypeBots\t1\BotApplication1\BotApplication1\bin\System.Web.WebPages.xml
+c:\Slobo\git\test\SkypeBots\t1\BotApplication1\BotApplication1\bin\System.Web.WebPages.Deployment.xml
+c:\Slobo\git\test\SkypeBots\t1\BotApplication1\BotApplication1\bin\System.Web.WebPages.Razor.xml
+C:\Slobo\git\test\SkypeBots\t1\BotApplication1\BotApplication1\bin\Unity.WebApi.dll
